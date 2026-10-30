@@ -1,7 +1,7 @@
 This repository contains the code accompanying the article:
 
 # "Probabilistic Stellar Mass and Radius Estimation with Bayesian Hierarchical Stacking"
-(manuscript under review)
+(https://arxiv.org/abs/2610.37968 [Accepted by A&A for publication])
 
 The project implements a Bayesian machine learning framework for predicting stellar masses and radii of exoplanet host stars while fully propagating observational uncertainties and model variance.
 
